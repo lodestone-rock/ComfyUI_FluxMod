@@ -1,5 +1,6 @@
-# Chroma Manual [WIP]
+# DEPRECATED! Chroma Manual [WIP]
 Chroma is a 8.9B parameter model based on FLUX.1-schnell.
+use comfyui default workflow here instead [https://comfyanonymous.github.io/ComfyUI_examples/chroma/](https://comfyanonymous.github.io/ComfyUI_examples/chroma/)
 
 ## Requirements
 
